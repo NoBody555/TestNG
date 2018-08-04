@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43721" started-at="2017-10-19T08:05:46Z" finished-at="2017-10-19T08:06:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43721" started-at="2017-10-19T08:05:46Z" finished-at="2017-10-19T08:06:30Z">
+      <class name="testNGPackage.FourthTestNGFile">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testNGPackage.FourthTestNGFile@6d78f375]" name="launchBrowser" is-config="true" duration-ms="25940" started-at="2017-10-19T13:35:46Z" finished-at="2017-10-19T13:36:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:testNGPackage.FourthTestNGFile@6d78f375]" name="verifyHomepageTitle" is-config="true" duration-ms="39" started-at="2017-10-19T13:36:12Z" finished-at="2017-10-19T13:36:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="register()[pri:0, instance:testNGPackage.FourthTestNGFile@6d78f375]" name="register" duration-ms="1429" started-at="2017-10-19T13:36:12Z" finished-at="2017-10-19T13:36:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:testNGPackage.FourthTestNGFile@6d78f375]" name="goBackToHomepage" is-config="true" duration-ms="1182" started-at="2017-10-19T13:36:14Z" finished-at="2017-10-19T13:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:testNGPackage.FourthTestNGFile@6d78f375]" name="verifyHomepageTitle" is-config="true" duration-ms="34" started-at="2017-10-19T13:36:15Z" finished-at="2017-10-19T13:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="support()[pri:1, instance:testNGPackage.FourthTestNGFile@6d78f375]" name="support" duration-ms="2308" started-at="2017-10-19T13:36:15Z" finished-at="2017-10-19T13:36:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- support -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:testNGPackage.FourthTestNGFile@6d78f375]" name="goBackToHomepage" is-config="true" duration-ms="1524" started-at="2017-10-19T13:36:17Z" finished-at="2017-10-19T13:36:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:testNGPackage.FourthTestNGFile@6d78f375]" name="verifyHomepageTitle" is-config="true" duration-ms="22" started-at="2017-10-19T13:36:19Z" finished-at="2017-10-19T13:36:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="verifyContactPage()[pri:2, instance:testNGPackage.FourthTestNGFile@6d78f375]" name="verifyContactPage" duration-ms="901" started-at="2017-10-19T13:36:19Z" finished-at="2017-10-19T13:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactPage -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:testNGPackage.FourthTestNGFile@6d78f375]" name="goBackToHomepage" is-config="true" duration-ms="9640" started-at="2017-10-19T13:36:20Z" finished-at="2017-10-19T13:36:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:testNGPackage.FourthTestNGFile@6d78f375]" name="terminateBrowser" is-config="true" duration-ms="603" started-at="2017-10-19T13:36:29Z" finished-at="2017-10-19T13:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- testNGPackage.FourthTestNGFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
